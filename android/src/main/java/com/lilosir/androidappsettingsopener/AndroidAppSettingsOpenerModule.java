@@ -1,4 +1,4 @@
-pacakge com.lilosir.androidappsettingsopener;
+package com.lilosir.androidappsettingsopener;
 
 import android.app.Activity;
 import android.content.Intent;
