@@ -17,7 +17,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="53">
               <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1532968439409" expanded="true" signature="915:1244" ph="{...}" />
+                <marker date="1532968439409" expanded="true" signature="1344:1374" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,8 +45,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/lilosir/androidappsettingsopener/AndroidAppSettingsOpenerPackage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lilosir/androidappsettingsopener/AndroidAppSettingsOpenerModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lilosir/androidappsettingsopener/AndroidAppSettingsOpenerPackage.java" />
       </list>
     </option>
   </component>
@@ -288,7 +291,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="53">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1532968439409" expanded="true" signature="915:1244" ph="{...}" />
+            <marker date="1532968439409" expanded="true" signature="1344:1374" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
