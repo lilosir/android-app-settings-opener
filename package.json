@@ -1,0 +1,19 @@
+{
+  "name": "android-app-settings-opener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilosir/android-app-settings-opener.git"
+  },
+  "author": "Oliver Sheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilosir/android-app-settings-opener/issues"
+  },
+  "homepage": "https://github.com/lilosir/android-app-settings-opener#readme"
+}
