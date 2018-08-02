@@ -1,4 +1,4 @@
-package com.lilosir.androidappsettingsopener;
+package com.lilosir.appsettings;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -12,7 +12,7 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.Callback;
 
-public class AndroidAppSettingsOpenerModule extends ReactContextBaseJavaModule {
+public class AndroidAppSettingsOpener extends ReactContextBaseJavaModule {
 
   @Override
   public String getName() {
@@ -46,7 +46,7 @@ public class AndroidAppSettingsOpenerModule extends ReactContextBaseJavaModule {
   }
 
   /* constructor */
-  public AndroidAppSettingsOpenerModule(ReactApplicationContext reactContext) {
+  public AndroidAppSettingsOpener(ReactApplicationContext reactContext) {
     super(reactContext);
   }
 }
