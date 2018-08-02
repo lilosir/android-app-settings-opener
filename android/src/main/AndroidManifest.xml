@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lilosir.appsettings">
-    <uses-sdk android:minSdkVersion="19" />
+    package="com.lilosir.appsettings"
+    xmlns:tools="http://schemas.android.com/tools">
+    <uses-sdk tools:overrideLibrary="com.lilosir.appsettings" />
 </manifest>
